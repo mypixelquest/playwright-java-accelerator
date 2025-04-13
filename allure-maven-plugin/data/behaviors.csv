@@ -1,0 +1,8 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","","Test Data Management","0","0","4","0","1"
+"Playwright Java Accelerator","Example Tests","Language Documentation","0","0","1","0","0"
+"Playwright Java Accelerator","Example Tests","Search Functionality","0","0","1","0","0"
+"Playwright Java Accelerator","Example Tests","Homepage Navigation","0","0","1","0","0"
+"Playwright Java Accelerator","Example Tests","Tools Navigation","0","0","1","0","0"
+"Playwright Java Accelerator","Example Tests","Screenshot Capture","0","0","0","0","1"
+"Playwright Java Accelerator","Example Tests","Retry Mechanism","0","0","0","0","1"

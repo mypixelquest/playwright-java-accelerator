@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"bc53be1077338dfc921016395d18a1d0","name":"Test Data Management","statistic":{"failed":0,"broken":0,"skipped":0,"passed":4,"unknown":1,"total":5}},{"uid":"dfb5387890393f44963a65294d2ec3dd","name":"Playwright Java Accelerator","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
